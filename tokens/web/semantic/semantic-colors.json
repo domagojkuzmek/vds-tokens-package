@@ -1,0 +1,15 @@
+{
+  "semantic": {
+    "color": {
+      "primary": "{vds.color.tourmaline.600.value}",
+      "secondary": "{vds.color.tourmaline.300.value}",
+      "tertiary": "{vds.color.nephrite.800.value}",
+      "quarternary": "{vds.color.tourmaline.50.value}",
+
+      "alert": { "value": "#E82B37" },
+      "warning": { "value": "#EC6513" },
+      "positive": { "value": "#37D002" },
+      "info": { "value": "#2D71D7" }
+    }
+  }
+}
