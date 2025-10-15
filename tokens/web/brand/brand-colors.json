@@ -1,8 +1,8 @@
 {
   "brand": {
     "hover": {
-      "primary": { "value": "#59BC87" },
-      "secondary": { "value": "#A8FFCC" }
+      "primary": { "value": "{vds.color.tourmaline.500.value}" },
+      "secondary": { "value": "{vds.color.tourmaline.200.value}" }
     },
 
     "on-surface": {
