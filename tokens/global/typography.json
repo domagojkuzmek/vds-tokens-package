@@ -1,0 +1,68 @@
+{
+  "font": {
+    "family": {
+      "primary": { "value": "\"Satoshi\", sans-serif" }
+    },
+
+    "size": {
+      "large": {
+        "14": { "value": "0.875rem" },
+        "16": { "value": "1rem" },
+        "18": { "value": "1.125rem" },
+        "24": { "value": "1.5rem" },
+        "30": { "value": "1.875rem" },
+        "36": { "value": "2.25rem" },
+        "44": { "value": "2.75rem" },
+        "72": { "value": "4.5rem" }
+      },
+      "medium": {
+        "12": { "value": "0.75rem" },
+        "14": { "value": "0.875rem" },
+        "16": { "value": "1rem" },
+        "23": { "value": "1.438rem" },
+        "27": { "value": "1.688rem" },
+        "32": { "value": "2rem" },
+        "38": { "value": "2.375rem" },
+        "56": { "value": "3.5rem" }
+      },
+      "small": {
+        "12": { "value": "0.75rem" },
+        "14": { "value": "0.875rem" },
+        "16": { "value": "1rem" },
+        "20": { "value": "1.25rem" },
+        "23": { "value": "1.438rem" },
+        "28": { "value": "1.75rem" },
+        "33": { "value": "2.063rem" },
+        "40": { "value": "2.5rem" }
+      }
+    },
+
+    "weight": {
+      "100": { "value": "100" },
+      "200": { "value": "200" },
+      "300": { "value": "300" },
+      "400": { "value": "400" },
+      "500": { "value": "500" },
+      "600": { "value": "600" },
+      "700": { "value": "700" },
+      "800": { "value": "800" },
+      "900": { "value": "900" }
+    },
+
+    "lineHeight": {
+      "16": { "value": "16px" },
+      "20": { "value": "20px" },
+      "24": { "value": "24px" },
+      "28": { "value": "28px" },
+      "32": { "value": "32px" },
+      "36": { "value": "36px" },
+      "38": { "value": "38px" },
+      "40": { "value": "40px" },
+      "44": { "value": "44px" },
+      "48": { "value": "48px" },
+      "52": { "value": "52px" },
+      "68": { "value": "68px" },
+      "88": { "value": "88px" }
+    }
+  }
+}

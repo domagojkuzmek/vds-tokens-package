@@ -1,10 +1,10 @@
 {
   "semantic": {
     "color": {
-      "primary": "{vds.color.tourmaline.600.value}",
-      "secondary": "{vds.color.tourmaline.300.value}",
-      "tertiary": "{vds.color.nephrite.800.value}",
-      "quarternary": "{vds.color.tourmaline.50.value}",
+      "primary": "#419468",
+      "secondary": "#78FAAE",
+      "tertiary": "#0E3A2F",
+      "quarternary": "#E8FFF1",
 
       "alert": { "value": "#E82B37" },
       "warning": { "value": "#EC6513" },

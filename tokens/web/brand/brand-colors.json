@@ -1,33 +1,30 @@
 {
   "brand": {
     "hover": {
-      "primary": { "value": "{vds.color.tourmaline.500.value}" },
-      "secondary": { "value": "{vds.color.tourmaline.200.value}" }
+      "primary": { "value": "59BC87" },
+      "secondary": { "value": "A8FFCC" }
     },
-
     "on-surface": {
-      "0": { "value": "{vds.color.obsidian.0.value}" },
-      "25": { "value": "{vds.color.obsidian.25.value}" },
-      "50": { "value": "{vds.color.obsidian.50.value}" },
-      "100": { "value": "{vds.color.obsidian.100.value}" },
-      "200": { "value": "{vds.color.obsidian.200.value}" },
-      "300": { "value": "{vds.color.obsidian.300.value}" },
-      "400": { "value": "{vds.color.obsidian.400.value}" },
-      "500": { "value": "{vds.color.obsidian.500.value}" },
-      "600": { "value": "{vds.color.obsidian.600.value}" },
-      "700": { "value": "{vds.color.obsidian.700.value}" },
-      "750": { "value": "{vds.color.obsidian.750.value}" },
-      "800": { "value": "{vds.color.obsidian.800.value}" },
-      "850": { "value": "{vds.color.obsidian.850.value}" },
-      "900": { "value": "{vds.color.obsidian.900.value}" }
+      "0": { "value": "#FFFFFF" },
+      "25": { "value": "#F1F1F1" },
+      "50": { "value": "#E4E4E4" },
+      "100": { "value": "#D8D8D8" },
+      "200": { "value": "#C4C6C7" },
+      "300": { "value": "#9e9fa0" },
+      "400": { "value": "#8e8f90" },
+      "500": { "value": "#7c7d7e" },
+      "600": { "value": "#5a5b5c" },
+      "700": { "value": "#464748" },
+      "750": { "value": "#3c3d3e" },
+      "800": { "value": "#303132" },
+      "850": { "value": "#232425" },
+      "900": { "value": "#161718" }
     },
-
     "text": {
-      "primary": { "value": "{vds.color.obsidian.900.value}" }
+      "primary": { "value": "#161718" }
     },
-
     "background": {
-      "primary": { "value": "{vds.color.obsidian.0.value}" }
+      "primary": { "value": "#ffffff" }
     }
   }
 }
