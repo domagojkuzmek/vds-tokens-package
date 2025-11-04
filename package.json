@@ -1,7 +1,12 @@
 {
-  "name": "verda-design-tokens",
+  "name": "@verda-systems/web-tokens",
   "version": "1.0.0",
-  "description": "",
+  "description": "Verda Design System tokens",
+  "main": "build/web/_tokens.scss",
+  "files": [
+    "build/",
+    "README.md"
+  ],
   "homepage": "https://github.com/domagojkuzmek/vds-tokens-package#readme",
   "bugs": {
     "url": "https://github.com/domagojkuzmek/vds-tokens-package/issues"
@@ -13,9 +18,9 @@
   "license": "ISC",
   "author": "Domagoj Kuzmek",
   "type": "commonjs",
-  "main": "build.js",
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "style-dictionary build",
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "sass": "^1.93.2",
