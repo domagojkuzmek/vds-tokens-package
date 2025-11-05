@@ -2,7 +2,7 @@
   "name": "@verda-systems/web-tokens",
   "version": "1.0.1",
   "description": "Verda Design System tokens",
-  "main": "build/web/_tokens.scss",
+  "main": "build/index.js",
   "files": [
     "build/",
     "README.md"
@@ -23,7 +23,6 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
-    "sass": "^1.93.2",
     "style-dictionary": "^5.1.1"
   }
 }
