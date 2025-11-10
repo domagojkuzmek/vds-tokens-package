@@ -17,7 +17,11 @@
       "files": [
         {
           "destination": "tokens.js",
-          "format": "javascript/es6"
+          "format": "javascript/esm",
+          "options": {
+            "name": "tokens",
+            "minify": "true"
+          }
         }
       ]
     }
