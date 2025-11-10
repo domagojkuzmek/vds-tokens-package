@@ -7,13 +7,8 @@
     "build/",
     "README.md"
   ],
-  "homepage": "https://github.com/domagojkuzmek/vds-tokens-package#readme",
   "bugs": {
     "url": "https://github.com/domagojkuzmek/vds-tokens-package/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/domagojkuzmek/vds-tokens-package.git"
   },
   "license": "ISC",
   "author": "Domagoj Kuzmek",
