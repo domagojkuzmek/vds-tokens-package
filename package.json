@@ -1,6 +1,6 @@
 {
   "name": "@verda-systems/web-tokens",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Verda Design System tokens",
   "main": "build/index.js",
   "files": [

@@ -8,7 +8,7 @@ Design tokens for the Verda Design System — a single source for colors and oth
 Install my-project with npm
 
 ```bash
-  npm i @skodaflow/web-tokens --save-dev
+  npm i @verda-systems/web-tokens --save-dev
 ```
     
 Obtain the tokens from the repository:
